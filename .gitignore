@@ -1,0 +1,79 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio Working Files
+.vs/
+
+# ASP.NET Scaffolding
+.scaffolding/
+
+# Configuration Files
+appsettings*.json
+secrets.json
+
+# Temporary Files
+*.tmp
+*.temp
+*.ncache
+*.pidb
+
+# Database Files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Packaging Files
+*.nupkg
+*.snupkg
+
+# NuGet
+*.nuget/
+packages/
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Windows-specific
+Thumbs.db
+desktop.ini
+
+# macOS-specific
+.DS_Store
+
+# Linux-specific
+*~
+
+# JetBrains Rider
+.idea/
+
+# Other
+*.lock.json
+project.lock.json
+
+# Exclude Files That Should Be Committed
+!*.dll
+!*.exe
+!*.pdb
